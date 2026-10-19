@@ -168,29 +168,3 @@ solar-panel-monitoring-system/
 │
 └── README.md                     # Project documentation
 ```
-
----
-
-## 📦 Setting Up the GitHub Repository
-
-If you want to push this project to your own remote GitHub repository:
-
-1. **Initialize Git locally**:
-   ```bash
-   git init
-   ```
-2. **Add all project files**:
-   ```bash
-   git add .
-   ```
-3. **Commit the changes**:
-   ```bash
-   git commit -m "Initial commit: Add solar panel monitoring application code and setup guides"
-   ```
-4. **Create a repository on GitHub**.
-5. **Link the local repository and push**:
-   ```bash
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-   git push -u origin main
-   ```
